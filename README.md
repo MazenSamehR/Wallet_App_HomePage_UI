@@ -1,6 +1,6 @@
 # wallet_app
 
-A new Flutter project.
+A new Flutter Wallet App Home Page UI.
 
 ## Getting Started
 
